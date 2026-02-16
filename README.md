@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>I'm Baptiste, a developer passionate about bridging **System Engineering** and **User Experience**.<br><br>- 💻 Technical Stack: **C/C++, Python, React Native, Node.js**<br>- 🛠 Currently building: **A POSIX Shell from scratch (42sh)**<br>- 📚 Interests: **Algorithmics, Data Science & Docker**<br>- 📫 Reach me at: **baptiste.rio.pro@gmail.com**
+### Hi there 👋<br><br>I'm Baptiste, a developer passionate about bridging **System Engineering** and **User Experience**.<br><br>- 💻 Technical Stack: **C/C++, Python, React Native, Node.js**<br>- 🛠 Currently building: **A Compiler from scratch**<br>- 📚 Interests: **Algorithmics, Data Science & Docker**<br>- 📫 Reach me at: **baptiste.rio.pro@gmail.com**
 
 
 ## 🌐 Socials:
